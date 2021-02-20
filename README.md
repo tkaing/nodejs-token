@@ -1,6 +1,6 @@
 # Node.js (nodejs-token)
 
-## **Install node (+ npm cli)**
+## **Install Node (+ npm cli)**
 [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
 
